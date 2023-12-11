@@ -3,8 +3,8 @@ layout: page
 title: Rhythm in speech
 description: I wrote some code to get the amplitude envelope of utterances.
 github: https://github.com/brhod/rhythm
-importance: 6
-category: fun
+importance: 5
+category: linguistics
 ---
 
 ## Brief description

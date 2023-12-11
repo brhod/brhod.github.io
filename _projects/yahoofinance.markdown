@@ -5,7 +5,7 @@ description: I developed a basic web scraper for Yahoo Finance statistics pages.
 img: /assets/img/yahoofinance.png
 redirect: https://github.com/brhod/yahoofinance
 github: https://github.com/brhod/yahoofinance
-importance: 5
-category: fun
+importance: 2
+category: misc
 ---
 

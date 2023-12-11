@@ -3,8 +3,8 @@ layout: page
 title: Stress and syllabification with Dynamic Computational Networks
 description: I investigated the possibilities and properties of Dynamic Computational Networks when jointly accounting for stress and syllabification (in English).
 img: /assets/img/210112_dcn-jointmodeling.png
-importance: 4
-category: research
+importance: 3
+category: statistics / machine learning / computational linguistics
 ---
 
 ## Overview

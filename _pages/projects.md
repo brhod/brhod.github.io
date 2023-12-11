@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of my previous projects!
+description: Some of my previous work!
 nav: true
 nav_order: 2
-display_categories: [research, coursework, teaching, fun]
+display_categories: [statistics / machine learning / computational linguistics, linguistics, reproductive neuroscience, misc]
 horizontal: false
 ---
 

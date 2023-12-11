@@ -2,8 +2,8 @@
 layout: page
 title: Teaching assistant for Introduction to Linguistics
 description: A page with materials I developed for the course Introduction to Linguistics (LING 20001), the first core course for the linguistics degree at the University of Chicago.
-importance: 7
-category: teaching
+importance: 3
+category: linguistics
 ---
 
 ## Overview of the class

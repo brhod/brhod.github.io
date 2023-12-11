@@ -2,8 +2,8 @@
 layout: page
 title: Teaching Introduction to Linguistics
 description: A page with materials I developed for the course Introduction to Linguistics (LING 20001) I taught at the University of Chicago.
-importance: 3
-category: teaching
+importance: 1
+category: linguistics
 ---
 
 ## Overview of the class

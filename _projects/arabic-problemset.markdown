@@ -3,8 +3,8 @@ layout: page
 title: Creation of problem set on Sudanese Colloquial Arabic
 description: For one of my core classes in the PhD curriculum at the University of Chicago, I created a problem set for undergraduates based on data from Sudanese Colloquial Arabic.
 img: /assets/img/arabic-language.jpg
-importance: 10
-category: coursework
+importance: 6
+category: linguistics
 ---
 
 ## Overview

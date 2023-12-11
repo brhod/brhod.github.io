@@ -3,8 +3,8 @@ layout: page
 title: Phonemic distance in dialects of Arabic
 description: I worked on a phonemically-based way to compute the distance between two dialects of Arabic. This was work for my second qualifying paper for the PhD program at the University of Chicago.
 img: /assets/img/210111_dialect-factor.png
-importance: 5
-category: research
+importance: 4
+category: statistics / machine learning / computational linguistics
 ---
 
 ## Overview

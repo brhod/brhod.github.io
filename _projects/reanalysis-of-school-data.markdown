@@ -3,8 +3,8 @@ layout: page
 title: Language in preschool instruction
 description: A reanalysis of a PNAS paper on the effect of engaging language on preschoolers' persistence and interest in learning about science.
 img: /assets/img/201101_lessonsetup_no_caption.png
-importance: 1
-category: coursework
+importance: 2
+category: statistics / machine learning / computational linguistics
 ---
 
 ## Overview

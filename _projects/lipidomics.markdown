@@ -4,7 +4,7 @@ title: Lipidomics
 description: My very first experience in research with Heather Bradshaw at Indiana University. I helped her process and analyze the data from a large lipidomics project, where she was looking at levels of different lipids in several areas of the brain using an acute model peripheral inflammation.
 img: /assets/img/210111_massspec-results-1.png
 importance: 10
-category: research
+category: reproductive neuroscience
 ---
 
 ## Overview

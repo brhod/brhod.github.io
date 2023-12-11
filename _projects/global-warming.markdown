@@ -2,8 +2,8 @@
 layout: page
 title: Global warming project
 description: I analyzed the CET data to investigate the presence of global warming.
-importance: 6
-category: coursework
+importance: 5
+category: statistics / machine learning / computational linguistics
 ---
 
 ## Brief description

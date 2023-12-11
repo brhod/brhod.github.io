@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior Data Scientist at Carelon Digital Platforms (Elevance Health)
+subtitle:
 
 profile:
   align: right
@@ -16,19 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Brandon Rhodes, and I'm a Senior Data Scientist at Carelon Digital Platforms (part of Elevance Health, formerly known as Anthem, Inc.). I am a statistician and linguist by training with a M.S. in Statistics and an "unfiled" M.A. in Linguistics (see note below to see what I mean by "unfiled"). I started out as a Ph.D. student in the Department of Linguistics at The University of Chicago before dropping out and taking a job as a Data Scientist. I was A.B.D. when I withdrew from the Ph.D. program, so I actually have a bit of independent research experience as well as teaching experience!
+Hello, my name is Brandon Rhodes, and I'm a Senior Data Scientist at Carelon Digital Platforms (part of Elevance Health, formerly known as Anthem, Inc.). I am a statistician and linguist by training with a M.S. in Statistics and an "unfiled" M.A. in Linguistics (I dropped out of a Ph.D. program when I was A.B.D.). I have about four years of academic experience and two and a half years of industry experience implementing various machine learning models, such as linear models, generalized linear models, gradient boosted trees, random forests, and different flavors of neural networks (FFN, transformer, RNN). 
 
-At this point, I have about four years of academic experience and two and a half years of industry experience implementing various machine learning models, such as linear models, generalized linear models, gradient boosted trees, random forests, and different flavors of neural networks (FFN, transformer, RNN). 
+A lot of my work has been in NLP and tabular data (healthcare), though I have some project experience in Speech Technologies (acoustically grounded word embeddings). In my current position, I have experience fine-tuning pretrained models (think transformer LLMs on the scale of 300M - 10B parameters) in a somewhat limited resource environment (think one to two small GPUs) as well as engineering and putting into production neural models from scratch for tabular data. And, most recently, I've worked a lot with foundational LLMs, building pipelines around them (think RAG).
 
-The deep learning work I've done I have found the most interesting. A lot of this work has been in NLP, though I have some project experience in Speech Technologies (acoustically grounded word embeddings). In my current position, I have experience fine-tuning pretrained models (think transformer LLMs on the scale of 300M - 10B parameters) in a somewhat limited resource environment (think one to two small GPUs) as well as engineering and putting into production models from scratch for tabular data. Most recently, I've worked a lot with foundational LLMs, building pipelines around them (think RAG).
+I still have a research spark within me, especially with regard to multimodal deep learning and areas where machine learning and statistics intersect. With regard to the latter, two lines of work which I would love to get an opportunity to explore more are conformal prediction and confident learning.
 
-I definitely still have a research spark within me, especially with regard to multimodal deep learning and areas where machine learning and statistics intersect. With regard to the latter, two lines of work which I would love to get an opportunity to explore more are conformal prediction and confident learning.
-
-I still very much love statistical analysis, and always welcome any questions people have regarding the structure of their problem they are investigating and potential ways to model their data. In my position, I've been approached a few times for more rigorous analysis of data, and I informally help friends in academia with this kind of thing. Recently, I have developed a deeper interest in Bayesian methods.
-
-***
-
-The "unfiled" part is pretty straightforward. In order to even get to an A.B.D. stage of the Ph.D. program in Linguistics at The University of Chicago, you must earn a Master's degree; however, they don't formally grant it to you unless you submit some paperwork requesting it. I haven't requested it and don't care to do so. If you're skeptical, please feel free to test my linguistics knowledge or check out the course materials I have for the class I taught and the classes for which I was a teaching assistant.
+Also, in general I still very much love statistical analysis, and always welcome any questions people have regarding the structure of their problem they are investigating and potential ways to model their data. In my position, I've been approached a few times for more rigorous analysis of data, and I informally help friends in academia with this kind of thing. Recently, I have developed a deeper interest in Bayesian methods.
 
 {% comment %}
 
