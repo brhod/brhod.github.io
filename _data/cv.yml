@@ -1,0 +1,83 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Brandon Rhodes
+    - name: Languages
+      value: English
+    - name: Programming languages
+      value: Python (Pandas, PyTorch, PyMC, scikit-learn, etc.), R (glmer, lmer, RStan, etc.)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Senior Data Scientist
+      institution: Elevance Health
+      year: 12/2023 - now
+      description:
+        - Lead engineer on two use cases with LLMs
+        - Supporting engineer on core team developing two use cases with LLMs that are currently live in production
+  
+    - title: Data Scientist
+      institution: Elevance Health
+      year: 08/2022 - 12/2023
+      description:
+        - Part of a small team who started LLM development at company
+
+    - title: Data Scientist Analyst
+      institution: Elevance Health
+      year: 08/2021 - 08/2022
+      description:
+        - Helped unify a set of existing pipelines, pushing to production
+        - Led the engineering and pushing to production of a component of the pipeline to increase precision from 60% to %80
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master's of Science, Statistics
+      institution: The University of Chicago, Chicago, IL, U.S.A.
+      year: 2019 - 2021
+      description:
+        - Master's degree with thesis requirement
+        - Advised by Peter McCullagh
+    - title: A.B.D. in Ph.D. program, Linguistics
+      institution: The University of Chicago, Chicago, IL, U.S.A.
+      year: 2015 - 2021
+      description:
+        - Advanced to A.B.D. stage of Ph.D. program, defending a dissertation proposal (on the first time)
+    - title: Master's of Art, Linguistics
+      institution: The University of Chicago, Chicago, IL, U.S.A.
+      year: 2015 - 2017
+      description:
+        - Master's degree as part of a Ph.D. program, two qualifying papers as a requirement
+        - Advised by John Goldsmith and Jason Riggle
+    - title: Bachelor's of Art, Linguistics
+      institution: Indiana University Bloomington, Bloomington, IN, U.S.A.
+      year: 2011 - 2015
+      description:
+        - Graduated with distinction (> 3.7 GPA)
+        - Co-author on two journal publications (neuroscience)
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Company impact award 4 (received from clinical product team)
+    - year: 2024
+      items: 
+        - Company impact award 3 (received from clinical product team)
+    - year: 2023
+      items: 
+        - Company impact award 2 (received from clinical team)
+    - year: 2022
+      items: 
+        - Company impact award 1 (received from operations team)
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Multimodal deep learning methods
+#     - title: Conformal prediction
+#     - title: Confident learning
+#     - title: Bayesian methods in statistics
