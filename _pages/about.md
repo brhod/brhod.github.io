@@ -16,13 +16,17 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Brandon Rhodes. I'm a Senior Data Scientist at Elevance Health. I am an experienced data scientist and ML engineer by practice, and I'm a statistician and linguist by training. I hold a M.S. in statistics from the University of Chicago, and I was A.B.D. in a Ph.D. program in the Department of Linguistics at the University of Chicago. A lot of my industry experience has been in NLP and tabular data (healthcare), though I have some personal project experience in speech (acoustically grounded word embeddings) and computer vision (ultrasound image tracings).
+Hello, my name is Brandon Rhodes, and I'm a Principal Data Scientist at Elevance Health. I am an experienced machine learning / data scientist, where I've done the following since entering industry:
+- been the primary engineer / architect on a couple of deep learning pipelines (one which has been deployed to production and the other which is currently in the process of being deployed to production)
+- been the primary engineer / architect of two generative AI pipelines, one which is embedded within an application and has been deployed to production and is used daily by 100+ users and the other which is currently being deployed to production (... they are RAG- and tool-based applications ... I have no experience with MCP or agentic frameworks)
+- been a lead statistical consultant (essentially on retainer) for various business / operational matters (consulted the business on the design of an experiment, created a statistical framework + tools [with optional asymptotic approximations] for the business to be able to understand the risk of pushing a model to production and make a decision on whether to do so)
+- been a co-organizor a reading group and been a mentor to three interns and various other more junior members
 
-From my current position, I have experience fine-tuning pretrained models (think: transformer architecture on the scale of 300M - 10B parameters) in a somewhat limited resource environment (think: one to two small GPUs) as well as engineering, training, and putting into production small feed forward neural networks. On the non-deep-learning front, I've also trained gradient boosted tree models, and I've implemented hiearchical generalized linear models (within a Bayesian framework). Most recently, though, I've worked a lot with foundational LLMs, building pipelines around them (think: RAG and agentic workflows).
 
-I still have a research spark within me, especially with regard to multimodal deep learning and areas where machine learning and statistics intersect. With regard to the latter, two lines of work which I would love to get an opportunity to explore more are conformal prediction and confident learning.
+By training, I'm a statistician and linguist. I hold a M.S. in statistics from the University of Chicago, and I was A.B.D. in a Ph.D. program in the Department of Linguistics at the University of Chicago. I have some personal project experience in speech (acoustically grounded word embeddings, forced alignment of Mandarin speech) and computer vision (ultrasound image tracings).
 
-I very much love statistical analysis, and always welcome any questions people have regarding data that they have. At my current company, I've served as a statistical consultant to help plan experiments and have developed methods (along with asymptotic approximations) to assess model performance. I informally help friends in academia with this kind of thing. Recently, I have developed a deeper interest in Bayesian methods.
+
+I very much love statistical analysis and machine learning, and always welcome any questions people have regarding data that they have. I informally help friends in academia with these kinds of things. As for statistical frameworks, I am comfortable with both frequentist and Bayesian methods.
 
 {% comment %}
 
