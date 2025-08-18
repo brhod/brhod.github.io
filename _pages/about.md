@@ -23,7 +23,7 @@ Hello, my name is Brandon Rhodes, and I'm a Principal Data Scientist at Elevance
 - been a co-organizor a reading group and been a mentor to three interns and various other more junior members
 
 
-By training, I'm a statistician and linguist. I hold a M.S. in statistics from the University of Chicago, and I was A.B.D. in a Ph.D. program in the Department of Linguistics at the University of Chicago. I have some personal project experience in speech (acoustically grounded word embeddings, forced alignment of Mandarin speech) and computer vision (ultrasound image tracings).
+By training, I'm a statistician and linguist. I hold a M.S. in statistics from the University of Chicago, and I was A.B.D. in a Ph.D. program in the Department of Linguistics at the University of Chicago (note: I withdrew from the program while in good academic standing). I have some personal project experience in speech (acoustically grounded word embeddings, forced alignment of Mandarin speech) and computer vision (ultrasound image tracings).
 
 
 I very much love statistical analysis and machine learning, and always welcome any questions people have regarding data that they have. I informally help friends in academia with these kinds of things. As for statistical frameworks, I am comfortable with both frequentist and Bayesian methods.
