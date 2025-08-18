@@ -4,32 +4,28 @@
     - name: Full Name
       value: Brandon Rhodes
     - name: Languages
-      value: English
+      value: English (native), Spanish (intermediate), Mandarin Chinese (beginner)
     - name: Programming languages
-      value: Python (Pandas, PyTorch, PyMC, scikit-learn, etc.), R (glmer, lmer, RStan, etc.)
+      value: Python (PyTorch, Numpy, Pandas, PyMC, scikit-learn, etc.), R (glmer, lmer, RStan, etc.)
 
 - title: Experience
   type: time_table
   contents:
+    - title: Principal Data Scientist
+      institution: Elevance Health
+      year: 05/2025 - now
+
     - title: Senior Data Scientist
       institution: Elevance Health
-      year: 12/2023 - now
-      description:
-        - Lead engineer on two use cases with LLMs
-        - Supporting engineer on core team developing two use cases with LLMs that are currently live in production
-  
+      year: 12/2023 - 05/2025
+
     - title: Data Scientist
       institution: Elevance Health
       year: 08/2022 - 12/2023
-      description:
-        - Part of a small team who started LLM development at company
 
     - title: Data Scientist Analyst
       institution: Elevance Health
       year: 08/2021 - 08/2022
-      description:
-        - Helped unify a set of existing pipelines, pushing to production
-        - Led the engineering and pushing to production of a component of the pipeline to increase precision from 60% to %80
 
 - title: Education
   type: time_table
@@ -44,7 +40,7 @@
       institution: The University of Chicago, Chicago, IL, U.S.A.
       year: 2015 - 2021
       description:
-        - Advanced to A.B.D. stage of Ph.D. program, defending a dissertation proposal (on the first time)
+        - Withdrew while in good academic standing
     - title: Master's of Art, Linguistics
       institution: The University of Chicago, Chicago, IL, U.S.A.
       year: 2015 - 2017

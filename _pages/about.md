@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Brandon Rhodes, and I'm a Principal Data Scientist at Elevance Health. I am an experienced machine learning / data scientist, where I've done the following since entering industry:
+Hello, my name is Brandon Rhodes, and I'm a Principal Data Scientist at Elevance Health. I am an experienced machine learning / data scientist, having done the following:
 - been the primary engineer / architect on a couple of deep learning pipelines (one which has been deployed to production and the other which is currently in the process of being deployed to production)
 - been the primary engineer / architect of two generative AI pipelines, one which is embedded within an application and has been deployed to production and is used daily by 100+ users and the other which is currently being deployed to production (... they are RAG- and tool-based applications ... I have no experience with MCP or agentic frameworks)
 - been a lead statistical consultant (essentially on retainer) for various business / operational matters (consulted the business on the design of an experiment, created a statistical framework + tools [with optional asymptotic approximations] for the business to be able to understand the risk of pushing a model to production and make a decision on whether to do so)
